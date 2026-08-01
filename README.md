@@ -38,14 +38,29 @@ Skilled in building scalable APIs, interactive UIs, and real-world applications 
 - Performance optimization in Flutter
 
 ---
-
+ 
 ## 📂 Featured Projects
 
-- 🚗 **Car Rental Management System** — ASP.NET Core + Angular + SQL Server
-- ☁️ **Clinic Management System** — ASP.Net Core MVC
-- 📱 **E-Commerce App** — Flutter + Firebase + Paymob Payment
-- 🏏 **Cricket Score App** — Real-time updates with Firebase
+### 💰 KhataFlow
+Multi-tenant SaaS platform for small Pakistani businesses — POS/sales, customer udhar (credit) tracking with WhatsApp ledger sharing, AI-powered voice-based sale creation, and offline-first sync.
+**Stack:** Angular · ASP.NET Core · Gemini API · Groq API
+ 
+### 🕌 e.Baab-ul-Salah
+Islamic worship and masjid management platform — prayer tracking, gamified character-building system, Ramadan Mode, and ML-based jamaat time prediction across 142 masjids.
+**Stack:** Flutter · ASP.NET Core · Redis (Upstash) · SignalR · Firebase
 
+### ☁️ Clinic Management System
+Appointment, doctor, and patient management system with role-based access (Admin/Doctor/Patient).
+**Stack:** ASP.NET Core MVC
+
+### 🛒 Shopsy
+Full-featured e-commerce platform built to showcase internship-ready, production-grade skills — includes cart, product/category browsing, and Stripe payment integration, plus a separate companion admin panel (Admin/Seller roles, MVC + JWT auth).
+**Stack:** Angular 20 · ASP.NET Core Web API (.NET 9) · SQL Server · Stripe
+ 
+### 🚗 Car Rental Management System
+ASP.NET Core Web API backend + Angular frontend, built as a monorepo.
+**Stack:** ASP.NET Core · Angular · SQL Server
+ 
 ---
 
 ## 🤝 Let's Connect
