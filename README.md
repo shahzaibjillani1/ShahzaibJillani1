@@ -66,8 +66,9 @@ ASP.NET Core Web API backend + Angular frontend, built as a monorepo.
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahzaib-jillani-338352375)
-- 📧 Email: shahzaibjillani8@gmail.com
+- 🌐 [Portfolio](https://shahzaibjillani.vercel.app/)
 - 🖥️ [GitHub](https://github.com/CoderShahzaib)
+- 📧 Email: shahzaibjillani8@gmail.com
 
 ---
 
