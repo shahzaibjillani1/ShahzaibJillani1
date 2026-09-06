@@ -25,7 +25,7 @@ Skilled in building scalable APIs, interactive UIs, and real-world applications 
 ## 🌱 Currently Learning
 | Azure | AI Engineering |
 |:-----:|:---------------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> | <img src="https://cdn.simpleicons.org/openai/74AA9C" width="40"/> |
 ---
 
 ## 🌱 Currently Learning
